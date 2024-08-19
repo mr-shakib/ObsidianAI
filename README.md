@@ -1,6 +1,6 @@
 # obsidian_ai
 
-A new Flutter project.
+An AI Powered Chat Bot
 
 ## Getting Started
 
